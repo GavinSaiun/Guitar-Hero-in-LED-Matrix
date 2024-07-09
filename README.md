@@ -1,0 +1,1 @@
+This is a project where I demonstrate my knowledge in C and computer systems. The hardware given included a LED Matrix, Timers, Buttons, AVR micro computer, lights and a buzzer. Using these components, I was asked to create the game 'Guitar Hero', with a scoring system, a intro animation and a responsive retry cycle.
